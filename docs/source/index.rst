@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+XO88
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`XO88 <https://xo88bet.net/>`_ là nhà cái đến từ Anh Quốc được đánh giá top hàng đầu thế giới xuất hiện tại châu Á. XO88 là một nhà cái trực tuyến nổi bật trong lĩnh vực cá cược thể thao và casino, cung cấp các dịch vụ cá cược, trò chơi casino, game bài, và các trò chơi giải trí khác. Nhà cái được đánh giá cao bởi giao diện người dùng thân thiện và dễ sử dụng, giúp người chơi có thể dễ dàng tham gia vào các hoạt động cá cược trực tuyến.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ:
 
-.. note::
+Địa chỉ: 91 P. Hoa Bằng, Yên Hoà, Quận Cầu Giấy, TP. Hà Nội, Việt Nam
 
-   This project is under active development.
+Phone: 0928 349 823
 
-Contents
---------
+Email: contact@xo88bet.net
 
-.. toctree::
+Website: https://xo88bet.net/ 
 
-   usage
-   api
+#xo88 #xo_88 #xo88betnet #nhacaixo88 #trangchuxo88 #dangnhapxo88 #dangkyxo88 #linkxo88 #xo88thethao #xo88casino
